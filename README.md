@@ -8,3 +8,6 @@ The very big issue is now fixed
 
 new issue fixed
 
+
+In the meantime i also made changes
+
